@@ -17,6 +17,8 @@ Risk-based adaptive multi-factor authentication for Keycloak. Evaluates login ri
 
 See the [keycloak-adaptive-mfa-engine](https://github.com/DefensePoint/keycloak-adaptive-mfa-engine) repository for the full Docker Compose stack and setup instructions.
 
+For monitoring and audit logging, see [keycloak-monitoring](https://github.com/DefensePoint/keycloak-monitoring).
+
 ## License
 
 All repositories are licensed under Apache-2.0.
